@@ -1,13 +1,17 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Commerce
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Neste projeto, foi feito queries criar, atualizar e excluir dados, de um banco de dados MongoDB. Esse projeto é uma simulação de um banco de dados de uma lanchonete do Mcdonald's.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<details>
+ <summary><strong>Pastas e Arquivos feitos por mim </strong></summary><br />
+  <ul>
+    <li> Toda a pasta challenges </li>
+  </ul>
+ </details>
+ 
+ <details>
+ <summary><strong>Banco de dados</strong></summary><br />
+  <ul>
+    <li> MongoDB </li>
+  </ul>
+ </details>
